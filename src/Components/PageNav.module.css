@@ -1,0 +1,9 @@
+.nav {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+}
+
+:global(.navlink) {
+    text-decoration: none;
+}
