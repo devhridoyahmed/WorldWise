@@ -47,6 +47,30 @@
         "lng": "139.76806640625003"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Perpignan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-12T02:26:29.611Z",
+      "notes": "just wondering\n",
+      "position": {
+        "lat": "42.68647341541784",
+        "lng": "2.897802315102989"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2025-03-12T02:27:05.049Z",
+      "notes": "going to work there",
+      "position": {
+        "lat": "47.517200697839414",
+        "lng": "19.05140118725553"
+      },
+      "id": 98443200
     }
   ]
 }
